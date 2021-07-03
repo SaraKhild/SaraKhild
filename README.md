@@ -30,6 +30,6 @@ I love learning new technologies and contributing to open source.seeking to use 
 </P>
 
 ### 📫 How to Reach me:
-You can find me on the following linkedIn platforms or send me an email:
+You can find me on the following linkedIn platform or send me an email:
 * 👔 [LinkedIn](https://www.linkedin.com/in/sara-alhosin)
 * ✉️ [sarakalhussain@hotmail.com](mailto:sarakalhussain@hotmail.com)
