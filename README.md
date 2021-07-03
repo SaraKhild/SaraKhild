@@ -29,7 +29,7 @@ I love learning new technologies and contributing to open source.seeking to use 
 <img src="https://user-images.githubusercontent.com/67427643/124337232-3d0b3500-dbaa-11eb-9c79-ba9df8676dda.png" alt="datagrip" height="40" style="vertical-align:top; margin:4px">
 </P>
 
-### How to Reach me:
+### 📫 How to Reach me:
 You can find me on the following linkedIn platforms or send me an email:
 * 👔 [LinkedIn](https://www.linkedin.com/in/sara-alhosin)
 * ✉️ [sarakalhussain@hotmail.com](mailto:sarakalhussain@hotmail.com)
