@@ -3,7 +3,7 @@
 I work as a full-stack developer with UI/UX design skills.
 
 I love learning new technologies and contributing to open source.seeking to use and enhance my knowledge in which I can apply my enthusiasm, technical aptitude as a full stack developer for different marketplace and learn new technologies. 
-- 🔭 I’m currently working on Spring Boot framworke. 
+- 🔭 I’m currently working on back-end using Java|Spring Boot framworke. 
 - 🌱 I’m currently learning React and UI/UX Design. 
 - 💞️ I’m looking to collaborate on Web Development and UI/UX Design. 
 - 💬 Ask me about spring boot, pure HTML, CSS, and UI/UX Design. 
