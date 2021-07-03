@@ -13,7 +13,7 @@ I love learning new technologies and contributing to open source.seeking to use 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/70335592/113712264-96b8ac00-96ee-11eb-81e4-966c6ef5f08e.jpg" alt="HTML5" height="40" style="vertical-align:top; margin:50px">
 <img src="https://user-images.githubusercontent.com/70335592/113714365-fa43d900-96f0-11eb-8642-e33f717d576a.jpg" alt="CSS3" height="40" style="vertical-align:top; margin:4px">
-<img src="https://user-images.githubusercontent.com/70335592/113714384-ff088d00-96f0-11eb-9299-5dc5adfecf17.jpg" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://user-images.githubusercontent.com/70335592/113714384-ff088d00-96f0-11eb-9299-5dc5adfecf17.jpg" alt="JavaScript" height="30" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/70335592/113714410-0891f500-96f1-11eb-93a4-a51cae952551.jpg" alt="Json" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/70335592/113714429-0cbe1280-96f1-11eb-9f8a-c2963c411d2c.jpg" alt="NodeJS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/70335592/113714417-0af44f00-96f1-11eb-8dee-20eabe92a0fe.jpg" alt="webpack" height="40" style="vertical-align:top; margin:4px">
@@ -25,7 +25,7 @@ I love learning new technologies and contributing to open source.seeking to use 
 <img src="https://user-images.githubusercontent.com/70335592/113714465-16e01100-96f1-11eb-9af9-2f8f8a6c9423.jpg" alt="git" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/70335592/113718966-d8008a00-96f5-11eb-91ee-5f9fbd69b2dd.jpg" alt="visual studio" height="30" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/67427643/124337403-1d284100-dbab-11eb-9e9e-5f33876256d7.png" alt="spring boot" height="30" style="vertical-align:top; margin:4px">
-<img src="https://user-images.githubusercontent.com/67427643/124337031-362ff280-dba9-11eb-80e2-2a3c055f6f14.jpeg" alt="intelliJ" height="40" style="vertical-align:top; margin:4px">
+<img src="https://user-images.githubusercontent.com/67427643/124337031-362ff280-dba9-11eb-80e2-2a3c055f6f14.jpeg" alt="intelliJ" height="30" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/67427643/124337232-3d0b3500-dbaa-11eb-9c79-ba9df8676dda.png" alt="datagrip" height="40" style="vertical-align:top; margin:4px">
 </P>
 
