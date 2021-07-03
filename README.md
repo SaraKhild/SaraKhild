@@ -6,7 +6,7 @@ I love learning new technologies and contributing to open source.seeking to use 
 - 🔭 I’m currently working on back-end using Java|Spring Boot framworke. 
 - 🌱 I’m currently learning React and UI/UX Design. 
 - 💞️ I’m looking to collaborate on Web Development and UI/UX Design. 
-- 💬 Ask me about spring boot, pure HTML, CSS, and UI/UX Design. 
+- 💬 Ask me about Java, spring boot, pure HTML, CSS, and UI/UX Design. 
 
 ### 🧰 Languages and Tools:
 
