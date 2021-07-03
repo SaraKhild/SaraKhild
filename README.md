@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Sara Alhosin]()!
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Sara Alhosin]()!
 
 I work as a full-stack developer with UI/UX design skills.
 
@@ -8,7 +8,7 @@ I love learning new technologies and contributing to open source.seeking to use 
 - 💞️ I’m looking to collaborate on Web Development and UI/UX Design. 
 - 💬 Ask me about spring boot, pure HTML, CSS, and UI/UX Design. 
 
-## 🧰 Languages and Tools:
+### 🧰 Languages and Tools:
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/70335592/113712264-96b8ac00-96ee-11eb-81e4-966c6ef5f08e.jpg" alt="HTML5" height="40" style="vertical-align:top; margin:50px">
@@ -29,7 +29,7 @@ I love learning new technologies and contributing to open source.seeking to use 
 <img src="https://user-images.githubusercontent.com/67427643/124337232-3d0b3500-dbaa-11eb-9c79-ba9df8676dda.png" alt="datagrip" height="40" style="vertical-align:top; margin:4px">
 </P>
 
-#### How to Reach me:
+### How to Reach me:
 You can find me on the following linkedIn platforms or send me an email:
 * 👔 [LinkedIn](https://www.linkedin.com/in/sara-alhosin)
 * ✉️ [sarakalhussain@hotmail.com](mailto:sarakalhussain@hotmail.com)
