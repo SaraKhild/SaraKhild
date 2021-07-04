@@ -8,6 +8,7 @@ I love learning new technologies and contributing to open source.seeking to use 
 - 💞️ I’m looking to collaborate on Web Development and UI/UX Design. 
 - 💬 Ask me about Java, spring boot, pure HTML, CSS, and UI/UX Design. 
 
+
 ### 🧰 Languages and Tools:
 
 <p align="center">
@@ -28,6 +29,7 @@ I love learning new technologies and contributing to open source.seeking to use 
 <img src="https://user-images.githubusercontent.com/67427643/124337031-362ff280-dba9-11eb-80e2-2a3c055f6f14.jpeg" alt="intelliJ" height="30" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/67427643/124337232-3d0b3500-dbaa-11eb-9c79-ba9df8676dda.png" alt="datagrip" height="40" style="vertical-align:top; margin:4px">
 </P>
+
 
 ### 📫 How to Reach me:
 You can find me on the following linkedIn platform or send me an email:
