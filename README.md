@@ -11,10 +11,6 @@ I love learning new technologies and contributing to open source.seeking to use 
 ### 🧰 Languages and Tools:
 <p align="center">
 <img src="https://user-images.githubusercontent.com/70335592/113714410-0891f500-96f1-11eb-93a4-a51cae952551.jpg" alt="Json" height="40" style="vertical-align:top; margin:4px">
-<img src="https://user-images.githubusercontent.com/70335592/113714429-0cbe1280-96f1-11eb-9f8a-c2963c411d2c.jpg" alt="NodeJS" height="40" style="vertical-align:top; margin:4px">
-<img src="https://user-images.githubusercontent.com/70335592/113714417-0af44f00-96f1-11eb-8dee-20eabe92a0fe.jpg" alt="webpack" height="40" style="vertical-align:top; margin:4px">
-<img src="https://user-images.githubusercontent.com/70335592/113714395-0465d780-96f1-11eb-8755-9a59b5b0129e.jpg" alt="Sass" height="40" style="vertical-align:top; margin:4px">
-<img src="https://user-images.githubusercontent.com/70335592/113714442-0f206c80-96f1-11eb-93b4-7bf7b120928c.jpg" alt="bootstrap 5" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/70335592/113714485-1ba4c500-96f1-11eb-8ef7-166ae8e265ac.jpg" alt="Java" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/67427643/124337513-9fb10080-dbab-11eb-9a16-cce6a0d3489e.jpg" alt="sql" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/70335592/113714631-45f68280-96f1-11eb-973d-0c1476c74354.jpg" alt="mySql" height="40" style="vertical-align:top; margin:4px">
