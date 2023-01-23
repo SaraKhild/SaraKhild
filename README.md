@@ -10,10 +10,7 @@ I love learning new technologies and contributing to open source.seeking to use 
 
 ### 🧰 Languages and Tools:
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/70335592/113712264-96b8ac00-96ee-11eb-81e4-966c6ef5f08e.jpg" alt="HTML5" height="40" style="vertical-align:top; margin:50px">
-<img src="https://user-images.githubusercontent.com/70335592/113714365-fa43d900-96f0-11eb-8642-e33f717d576a.jpg" alt="CSS3" height="40" style="vertical-align:top; margin:4px">
-<img src="https://user-images.githubusercontent.com/70335592/113714384-ff088d00-96f0-11eb-9299-5dc5adfecf17.jpg" alt="JavaScript" height="30" style="vertical-align:top; margin:4px">
+
 <img src="https://user-images.githubusercontent.com/70335592/113714410-0891f500-96f1-11eb-93a4-a51cae952551.jpg" alt="Json" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/70335592/113714429-0cbe1280-96f1-11eb-9f8a-c2963c411d2c.jpg" alt="NodeJS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/70335592/113714417-0af44f00-96f1-11eb-8dee-20eabe92a0fe.jpg" alt="webpack" height="40" style="vertical-align:top; margin:4px">
