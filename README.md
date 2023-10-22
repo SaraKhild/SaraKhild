@@ -1,4 +1,4 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Sara Alhosin]()!
+## :wave:  Hello, I'm [Sara Alhosin]()!
 
 I love learning new technologies and contributing to open source.seeking to use and enhance my knowledge in which I can apply my enthusiasm, technical aptitude as a full stack developer for different marketplace and learn new technologies. 
 - 🔭 I’m currently working on Backend using Java|Spring Boot framworke. 
